@@ -1,0 +1,764 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: autixir\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-28 22:30+0600\n"
+"PO-Revision-Date: 2019-03-05 12:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: TunaTheme <support@tunatheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:22
+msgid "404"
+msgstr ""
+
+#: ../404.php:23
+msgid "Page Not Found! Page Not Found!"
+msgstr ""
+
+#: ../404.php:24
+msgid "Oops! The page you are looking for does not exist. It might have been moved or deleted."
+msgstr ""
+
+#: ../404.php:26
+msgid "BACK TO HOME"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: ../comments.php:40
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:50
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:52
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: ../comments.php:79 ../comments.php:92
+msgid "Previous comment"
+msgstr ""
+
+#: ../comments.php:79 ../comments.php:92
+msgid "Previous"
+msgstr ""
+
+#: ../comments.php:80 ../comments.php:93
+msgid "Next"
+msgstr ""
+
+#: ../comments.php:80 ../comments.php:93
+msgid "Next comment"
+msgstr ""
+
+#: ../comments.php:106
+msgid "Comments are closed."
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:35
+msgid "Auitixir"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:36
+msgid "Auitixir Customizer Options"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:44
+#: ../core/classes/admin/class.customizer.php:45
+msgid "Header Top"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:51
+#: ../core/classes/admin/class.customizer.php:52
+msgid "Header"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:57
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:62
+msgid "Blog Settings"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:67
+msgid "Footer Settings"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:79
+msgid "Show Topbar"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:80
+#: ../core/classes/admin/class.customizer.php:172
+msgid "Yes / No"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:89
+msgid "Header Style"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:93
+msgid "Style 1"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:94
+msgid "Style 2"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:100
+msgid "Header Phone Title"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:102
+msgid "Get Support"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:107
+msgid "Header Phone Number"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:109
+msgid "123-456-789-10"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:114
+msgid "Header Email"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:116
+msgid "info@webmail.com"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:121
+msgid "Header Address"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:123
+msgid "15/A, Nest Tower, NYC"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:128
+msgid "Header Address URL"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:134
+msgid "Header Button Text"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:136
+msgid "GET APPOINTMENT"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:141
+msgid "Header Button URL"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:147
+msgid "Header Facebook URL"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:153
+msgid "Header Twitter URL"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:159
+msgid "Header Linkedin URL"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:165
+msgid "Header Instagram URL"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:171
+msgid "Header Sticky"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:179
+msgid "Unittest CSS"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:182
+#: ../core/classes/admin/class.customizer.php:218
+#: ../core/classes/admin/class.customizer.php:228
+#: ../core/classes/admin/class.customizer.php:238
+#: ../core/classes/admin/class.customizer.php:248
+#: ../core/classes/admin/class.customizer.php:258
+msgid "Enable"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:183
+#: ../core/classes/admin/class.customizer.php:219
+#: ../core/classes/admin/class.customizer.php:229
+#: ../core/classes/admin/class.customizer.php:239
+#: ../core/classes/admin/class.customizer.php:249
+#: ../core/classes/admin/class.customizer.php:259
+msgid "Disable"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:189
+msgid "Breadcrumb BG"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:201 ../core/hooks/action.php:111
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:207
+msgid "No Sidebar"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:208
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:209
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:215
+msgid "Post View Oo/Off"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:225
+msgid "Post Social Share"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:235
+msgid "Post Nav"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:245
+msgid "Author Box"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:255
+#: ../template-parts/formats/single-content.php:94
+msgid "Related Post"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:266
+msgid "Footer Widget Template"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:275
+msgid "Footer Menu"
+msgstr ""
+
+#: ../core/classes/admin/class.customizer.php:284
+msgid "Copyright Text"
+msgstr ""
+
+#: ../core/classes/admin/class.kirki-installer-section.php:105
+msgid "Please install the Kirki plugin to take full advantage of this theme's customizer capabilities"
+msgstr ""
+
+#: ../core/classes/admin/class.kirki-installer-section.php:108
+msgid "Install Now"
+msgstr ""
+
+#: ../core/classes/admin/class.kirki-installer-section.php:122
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr ""
+
+#: ../core/classes/admin/class.kirki-installer-section.php:125
+msgid "Activate Now"
+msgstr ""
+
+#: ../core/classes/admin/class.kirki-installer-section.php:145
+msgid "Don't show this again"
+msgstr ""
+
+#: ../core/classes/admin/class.kirki-installer-section.php:155
+msgid "Are you sure? Dismissing this message will hide the installation recommendation and you will have to manually install and activate the plugin in the future."
+msgstr ""
+
+#: ../core/hooks/action.php:40
+msgid "Main Menu"
+msgstr ""
+
+#: ../core/hooks/action.php:113 ../core/hooks/action.php:125
+#: ../core/hooks/action.php:137
+msgid "Add widgets here."
+msgstr ""
+
+#: ../core/hooks/action.php:123
+msgid "Service Sidebar"
+msgstr ""
+
+#: ../core/hooks/action.php:135
+msgid "Faq Sidebar"
+msgstr ""
+
+#: ../core/hooks/action.php:286
+msgid "Caution: For importing demo data please click on \"Import Demo Data\" button. During demo data installation please do not refresh the page."
+msgstr ""
+
+#: ../core/lib/breadcrumb.php:16
+msgid "Home"
+msgstr ""
+
+#: ../core/lib/breadcrumb.php:29 ../header.php:65
+msgid "Blog Posts"
+msgstr ""
+
+#: ../core/lib/breadcrumb.php:37 ../header.php:73
+msgid " Details"
+msgstr ""
+
+#: ../core/lib/breadcrumb.php:40 ../header.php:76
+msgid "Error Page"
+msgstr ""
+
+#: ../core/lib/breadcrumb.php:42 ../header.php:78
+msgid "Search Results for: "
+msgstr ""
+
+#: ../core/lib/breadcrumb.php:172
+#, php-format
+msgid " ( Page %s )"
+msgstr ""
+
+#: ../core/lib/helper_function.php:290
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../core/lib/helper_function.php:298
+msgid "Reply"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:334
+#: ../core/lib/tgm/config-tgm.php:77
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:335
+#: ../core/lib/tgm/config-tgm.php:78
+msgid "Install Plugins"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:337
+#: ../core/lib/tgm/config-tgm.php:79
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:340
+#: ../core/lib/tgm/config-tgm.php:80
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:392
+#: ../core/lib/tgm/config-tgm.php:91
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:393
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:912
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2618
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:394
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3244
+#: ../core/lib/tgm/config-tgm.php:92
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:1019
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3594
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3594
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../core/lib/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:16
+msgid "Autixir Core"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:25
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:33
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:41
+msgid "Elementor"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:49
+msgid "Meta Box"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:57
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../core/lib/tgm/config-tgm.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../footer.php:45
+msgid "Copyright & Design By"
+msgstr ""
+
+#: ../footer.php:46
+msgid "Company -"
+msgstr ""
+
+#: ../page.php:27 ../template-parts/formats/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/formats/content-none.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../template-parts/formats/content.php:30
+#: ../template-parts/formats/single-content.php:11
+msgid "0 Comments"
+msgstr ""
+
+#: ../template-parts/formats/content.php:30
+#: ../template-parts/formats/single-content.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: ../template-parts/formats/content.php:30
+#: ../template-parts/formats/single-content.php:11
+msgid "% Comments"
+msgstr ""
+
+#: ../template-parts/formats/content.php:39
+#: ../template-parts/formats/single-content.php:8
+msgid "By: "
+msgstr ""
+
+#: ../template-parts/formats/content.php:44
+msgid "Read more"
+msgstr ""
+
+#: ../template-parts/formats/single-content.php:25
+msgid "Tags"
+msgstr ""
+
+#: ../template-parts/formats/single-content.php:49
+msgid "Prev Post"
+msgstr ""
+
+#: ../template-parts/formats/single-content.php:60
+msgid "Next Post"
+msgstr ""
+
+#: ../template-parts/formats/single-content.php:131
+msgid "Written by"
+msgstr ""
